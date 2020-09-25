@@ -1,0 +1,17 @@
+button {
+  border: 1px solid black;
+  border-radius: 30px;
+  margin: 0.5rem auto;
+  display: flex;
+  padding: 0.5rem 1rem;
+  align-items: center;
+}
+
+button:focus {
+  outline: none;
+}
+
+button > img {
+  height: 40px;
+  margin-right: 1rem;
+}

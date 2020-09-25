@@ -1,0 +1,33 @@
+.login-page {
+  min-height: 100vh;
+  width: 100vw;
+  margin-top: 50px;
+}
+
+.login-page > .container {
+  max-width: 400px;
+}
+
+.signup-form {
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  z-index: 100;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.or-border {
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+.or-border div {
+  background-color: black;
+  height: 1px;
+  width: 40%;
+}
+
+.or-border p {
+  margin: 0 5px;
+}

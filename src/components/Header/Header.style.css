@@ -1,0 +1,35 @@
+.login-button {
+  background-color: #f9a51a;
+  padding: 2px 1rem;
+  border-radius: 10px;
+}
+
+.navbar-light {
+  border-bottom: 2px solid #000;
+}
+.logo {
+  height: 50px;
+}
+
+.logo-white {
+  filter: brightness(50);
+}
+
+.search {
+  background: none;
+  color: #fff;
+  max-width: 350px;
+  margin-left: 1rem;
+}
+
+.name {
+  padding: 5px 10px;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.name:hover {
+  text-decoration: none;
+
+  color: #fff;
+}
